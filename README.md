@@ -1,2 +1,2 @@
 # hello-world
-It if the best choice
+It is the best choice
